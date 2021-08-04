@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nakul Thakur</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
-- 👨‍💻 All of my projects are available at [projects.nakulthakur.com](projects.nakulthakur.com)
+- 👨‍💻 All of my projects are available at <a href="https://projects.nakulthakur.com">projects.nakulthakur.com</a>
 
 - 📝 I regularly write articles on [blog.nakulthakur.com](blog.nakulthakur.com)
 
